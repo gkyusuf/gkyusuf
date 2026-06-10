@@ -9,7 +9,7 @@ Product and engineering work on education platforms.
 **e-Koç** — Cross-platform EdTech system and multi-tenant coach management platform
 
 - Web: [ekocapp.com.tr](https://ekocapp.com.tr)
-- Mobile: [Google Play](https://play.google.com/store/apps/details?id=com.ekoc.e_koc) · [App Store](https://apps.apple.com/tr/app/e-ko%C3%A7-yks-takip-ve-analiz/id6757975623) — 1,000+ installs
+- Mobile: [Google Play](https://play.google.com/store/apps/details?id=com.ekoc.e_koc) · [App Store](https://apps.apple.com/tr/app/e-ko%C3%A7-yks-takip-ve-analiz/id6757975623) — 1,400+ installs
 - Role: full-stack development (coach dashboard, backend integrations, mobile app)
 - Details: [product-case-studies](https://github.com/gkyusuf/product-case-studies/blob/main/case-studies/ekoc.md)
 
