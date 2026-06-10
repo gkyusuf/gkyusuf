@@ -18,3 +18,7 @@ Product and engineering work on education platforms.
 - Live: [iskanaydeniz.com](https://iskanaydeniz.com)
 - Role: end-to-end delivery
 - Details: [product-case-studies](https://github.com/gkyusuf/product-case-studies/blob/main/case-studies/iskan-aydeniz.md)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/gok-yusuf)
