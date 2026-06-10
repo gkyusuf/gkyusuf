@@ -6,7 +6,7 @@ Product and engineering work on education platforms.
 
 ## Selected work
 
-**E-Koç** — YKS exam preparation platform (web dashboard and mobile app)
+**e-Koç** — Cross-platform EdTech system and multi-tenant coach management platform
 
 - Web: [ekocapp.com.tr](https://ekocapp.com.tr)
 - Mobile: [Google Play](https://play.google.com/store/apps/details?id=com.ekoc.e_koc) · [App Store](https://apps.apple.com/tr/app/e-ko%C3%A7-yks-takip-ve-analiz/id6757975623) — 1,000+ installs
